@@ -16,5 +16,5 @@ moviepy
 
 # System Requirements :
 
-Python 3.8+ environment
+Python 3.8+ environment,
 RAM : 2GB+ (4GB+ preffered)
